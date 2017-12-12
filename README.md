@@ -1,4 +1,4 @@
-# Hack the Future 2017 Java Challange
+# Hack the Future 2017 Java Challenge
 
 ## Control Station
 
